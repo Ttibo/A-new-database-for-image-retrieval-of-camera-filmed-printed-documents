@@ -14,4 +14,6 @@ DATASET ||  Documents : 596 ==> Views :  2780
  -  posters   : 80  views :  400
 
 
+Artcile : https://dl.acm.org/doi/abs/10.1145/3564533.3564569
+
 ![Exampls](dataset.png)
