@@ -15,7 +15,8 @@ A family of specific objects used for such scenario is the printed material. The
 - Business Cards: 79 documents, 395 views
 - Catalogs: 100 documents, 500 views
 - Posters: 80 documents, 400 views
-- 
+
+
 ## Access
 
 The dataset is publicly available for research purposes.
